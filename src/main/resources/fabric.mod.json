@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "id": "cme_particlemanager",
+    "version": "${version}",
+    "name": "CME_ParticleManager",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "license": "All-Rights-Reserved",
+    "mixins": [
+        "cme_particlemanager.mixins.json"
+    ]
+}
